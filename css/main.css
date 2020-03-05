@@ -4,7 +4,10 @@
 @import url('https://fonts.googleapis.com/css?family=Noto+Sans+KR:100,300,400,500,700,900&display=swap');
 
 body {
-    font-family: 'Noto Sans KR', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Dotum', '\B3CB\C6C0', 'sans-serif'
+    font-family: 'Noto Sans KR', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Dotum', '\B3CB\C6C0', 'sans-serif';
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	letter-spacing: -0.02em;	
     letter-spacing: 0;
     font-weight: 500;
     font-style: normal;
@@ -50,7 +53,7 @@ body * {
 
 #header__info h1 {
     margin-left: 7px;
-    width: 650px;
+    width: 70%;
     color: rgba(0, 0, 0, .7);
     cursor: pointer;
     font-weight: 700;
