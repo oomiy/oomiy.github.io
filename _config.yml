@@ -12,7 +12,6 @@ markdown_ext: markdown,mkdown,mkdn,mkd,md
 permalink: /:year/:title/
 source: ./
 destination: ./_site
-disqus_shortname: "oomiy"
 
 redcarpet:
   extensions:
