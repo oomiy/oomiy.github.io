@@ -2,7 +2,7 @@ title: oomiy
 email: zzsyi30@gmail.com
 description: >
   oomsiy
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://oomiy.github.io" # the base hostname & protocol for your site
 postCount: 7 # the number of posts on the "index" page
 
