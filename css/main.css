@@ -6,7 +6,7 @@
 body {
     font-family: 'Noto Sans KR', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Dotum', '\B3CB\C6C0', 'sans-serif'
     letter-spacing: 0;
-    font-weight: 400;
+    font-weight: 500;
     font-style: normal;
     text-rendering: optimizeLegibility;
     color: rgba(0, 0, 0, .7);
@@ -108,7 +108,7 @@ body * {
 }
 
 #content__column {
-    width: 650px;
+    width: 70%;
     margin: auto;
 }
 
