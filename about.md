@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+정보
 
-### More Information
+### 1.
 
-A place to include any other types of information that you'd like to include about yourself.
+what
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[zzsyi30@gmail.com](mailto:zzsyi30@gmail.com)

@@ -1,10 +1,10 @@
 @import "reset.css";
 @import "syntax.css";
 @import "markdown.css";
-@import url('https://fonts.googleapis.com/css?family=Inconsolata|Lora:400,400i,700,700i&subset=cyrillic');
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+KR:100,300,400,500,700,900&display=swap');
 
 body {
-    font-family: 'Lora', serif;
+    font-family: 'Noto Sans KR', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Dotum', '\B3CB\C6C0', 'sans-serif'
     letter-spacing: 0;
     font-weight: 400;
     font-style: normal;

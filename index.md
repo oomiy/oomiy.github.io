@@ -11,11 +11,11 @@ layout: default
     <div class="post__postfix">
       <span class="post__date">{{ post.date | date: "%b %-d, %Y" }}</span>
       <span class="post__postfix--separator"></span>
-      <a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}" title="{{ post.title}}">Read more...</a>
+      <a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}" title="{{ post.title}}">계속 읽기...</a>
     </div>
   </div>
 </div>
 {% endfor %}
 <div class="more_posts">
-  <a href="{{ '/archive' | prepend: site.baseurl | prepend: site.url }}">All posts...</a>
+  <a href="{{ '/archive' | prepend: site.baseurl | prepend: site.url }}">모든 글 보기</a>
 </div>
