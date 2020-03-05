@@ -229,6 +229,7 @@ body * {
 
 .single__article {
   padding-top: 10px;
+  padding-bottom: 20px;
 }
 #single p {
   margin-top: 20px;
