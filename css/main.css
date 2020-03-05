@@ -13,7 +13,7 @@ body {
     background-color: #FAFAFA;
 }
 body * {
-	font-family: 'Noto Sans KR', 'Malgun Gothic', '\B9D1\C740 \ACE0\B515', 'Dotum', '\B3CB\C6C0', 'sans-serif'
+	font-family: 'Noto Sans KR', 'Malgun Gothic', 'Dotum', 'sans-serif'
     letter-spacing: -0.02em;
     font-weight: 500;
     transition: all 0.3s ease;
