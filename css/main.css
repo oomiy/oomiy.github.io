@@ -36,14 +36,8 @@ body * {
     justify-content: center;
     flex-direction: column;
     display: flex;
-    align-items: center;
     width: 100%;
-    margin: -12px auto;
-    padding-top: 42px;
-}
-
-#header__title {
-	width: 70%;
+    padding-top: 10px;
 }
 
 #container .extremeHero-container {
