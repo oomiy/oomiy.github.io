@@ -15,7 +15,7 @@ body {
 body * {
 	font-family: 'Noto Sans KR', 'Malgun Gothic', 'Dotum', 'sans-serif';
     letter-spacing: -0.02em;
-    font-weight: 500;
+    font-weight: 300;
     transition: all 0.3s ease;
 }
 
